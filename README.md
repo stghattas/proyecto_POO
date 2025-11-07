@@ -1,4 +1,4 @@
-# proyecto_POO
+# RPG de Mazmorras
 
 ## 📌 Descripción  
 Este proyecto está desarrollado en Java y abarca el diseño y la implementación de un sistema utilizando conceptos de Programación Orientada a Objetos (POO).  
@@ -17,3 +17,5 @@ El objetivo principal es modelar una pequeña “mazmorra RPG” en la que entid
 - Lenguaje: **Java**  
 - Paradigma: Programación orientada a objetos (POO)  
 - Compilación y ejecución estándar vía `javac` / `java` (o mediante IDE de tu elección)
+
+Hecho por Diego Rojas y Samer Ghattas
